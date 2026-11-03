@@ -40,7 +40,7 @@ loan_data = pd.DataFrame({
     "county": county
 })
 
-print("=========MOMBASA MICROFINACNE LOAN STATISTICAL ANALYSIS=========")
+print("=========MOMBASA MICROFINANCE LOAN STATISTICAL ANALYSIS=========")
 print(loan_data.describe())
 print("----------------------------------------------------------------")
 
