@@ -52,7 +52,7 @@ print(f"Correlation: {corr:.2f}")
 ## Sample Output
 
 ```
-=========MOMBASA MICROFINACNE LOAN STATISTICAL ANALYSIS=========
+=========MOMBASA MICROFINANCE LOAN STATISTICAL ANALYSIS=========
           loan_id     amount_kes  days_to_first_repayment
 count  150.000000     150.000000               150.000000
 mean    75.500000  161607.333333                99.593333
