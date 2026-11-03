@@ -13,7 +13,7 @@ microfinance institute. Plots and saves a histogram chart showing loan amounts i
 - Plots a histogram of loan amounts
 - Saves the histogram as PNG(msa_microfinance_analysis.png)
 
-## Correlation Findinds
+## Correlation Findings
 A value of -0.06 indicates that there is no correlation between loan amount and days to repayment
 
 ## Setup
